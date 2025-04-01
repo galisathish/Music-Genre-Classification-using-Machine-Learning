@@ -1,0 +1,121 @@
+🎵 Genre-Based Song Recommendations
+Rock
+"Bohemian Rhapsody" - Queen
+"Stairway to Heaven" - Led Zeppelin
+"Hotel California" - Eagles
+Jazz
+"Take Five" - Dave Brubeck
+"So What" - Miles Davis
+"Summertime" - Ella Fitzgerald
+Pop
+"Blinding Lights" - The Weeknd
+"Shape of You" - Ed Sheeran
+"Thriller" - Michael Jackson
+Blues
+"The Thrill Is Gone" - B.B. King
+"Sweet Home Chicago" - Robert Johnson
+"Pride and Joy" - Stevie Ray Vaughan
+Classical
+"Moonlight Sonata" - Beethoven
+"Clair de Lune" - Debussy
+"The Four Seasons" - Vivaldi
+Reggae
+"No Woman, No Cry" - Bob Marley
+"Sweat (A La La La La Long)" - Inner Circle
+"Bad Boys" - Inner Circle
+Hip-Hop
+"Lose Yourself" - Eminem
+"Juicy" - The Notorious B.I.G.
+"Sicko Mode" - Travis Scott
+Electronic
+"Animals" - Martin Garrix
+"Titanium" - David Guetta ft. Sia
+"Strobe" - Deadmau5
+Metal
+"Master of Puppets" - Metallica
+"Painkiller" - Judas Priest
+"Holy Wars... The Punishment Due" - Megadeth
+Country
+"Jolene" - Dolly Parton
+"Take Me Home, Country Roads" - John Denver
+"Tennessee Whiskey" - Chris Stapleton
+Disco
+"Stayin’ Alive" - Bee Gees
+"Le Freak" - Chic
+"I Will Survive" - Gloria Gaynor
+Funk
+"Superstition" - Stevie Wonder
+"Uptown Funk" - Mark Ronson ft. Bruno Mars
+"Play That Funky Music" - Wild Cherry
+Opera
+"Nessun Dorma" - Puccini
+"The Queen of the Night Aria" - Mozart
+"La donna è mobile" - Verdi
+Techno
+"Sandstorm" - Darude
+"Losing It" - Fisher
+"Blue Monday" - New Order
+Soul
+"Ain’t No Sunshine" - Bill Withers
+"Respect" - Aretha Franklin
+"Let’s Stay Together" - Al Green
+Latin
+"Despacito" - Luis Fonsi
+"Bailando" - Enrique Iglesias
+"Vivir Mi Vida" - Marc Anthony
+Gospel
+"Oh Happy Day" - Edwin Hawkins Singers
+"Take Me to the King" - Tamela Mann
+"Break Every Chain" - Tasha Cobbs
+Trance
+"Children" - Robert Miles
+"Adagio for Strings" - Tiësto
+"Silence" - Delerium ft. Sarah McLachlan
+Folk
+"The Sound of Silence" - Simon & Garfunkel
+"Blowin’ in the Wind" - Bob Dylan
+"Take Me to Church" - Hozier
+Ska
+"Monkey Man" - The Specials
+"A Message to You, Rudy" - The Specials
+"Time Bomb" - Rancid
+Grunge
+"Smells Like Teen Spirit" - Nirvana
+"Black Hole Sun" - Soundgarden
+"Alive" - Pearl Jam
+Ambient
+"Weightless" - Marconi Union
+"An Ending (Ascent)" - Brian Eno
+"Dawn Chorus" - Thom Yorke
+New Wave
+"Just Can’t Get Enough" - Depeche Mode
+"Take on Me" - A-ha
+"Bizarre Love Triangle" - New Order
+House
+"One More Time" - Daft Punk
+"Show Me Love" - Robin S
+"Deep Inside" - Hardrive
+Industrial
+"Closer" - Nine Inch Nails
+"Stigmata" - Ministry
+"More Human than Human" - White Zombie
+Bluegrass
+"Foggy Mountain Breakdown" - Flatt & Scruggs
+"Man of Constant Sorrow" - The Soggy Bottom Boys
+"Nine Pound Hammer" - Tony Rice
+Synthwave
+"Nightcall" - Kavinsky
+"Miami Nights 1984" - Accelerated
+"A Real Hero" - College & Electric Youth
+Baroque
+"Brandenburg Concertos" - J.S. Bach
+"Canon in D" - Pachelbel
+"Air on the G String" - Bach
+Dubstep
+"Scary Monsters and Nice Sprites" - Skrillex
+"First of the Year (Equinox)" - Skrillex
+"Bass Cannon" - Flux Pavilion
+Chillwave
+"Feel It All Around" - Washed Out
+"Midnight City" - M83
+"Eyes Be Closed" - Washed Out
